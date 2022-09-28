@@ -1,0 +1,15 @@
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.AssemblyInfo.cs
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\ДЗ008\object58\bin\Debug\net6.0\object58.exe
+C:\Users\Николай\Desktop\ДЗ008\object58\bin\Debug\net6.0\object58.deps.json
+C:\Users\Николай\Desktop\ДЗ008\object58\bin\Debug\net6.0\object58.runtimeconfig.json
+C:\Users\Николай\Desktop\ДЗ008\object58\bin\Debug\net6.0\object58.dll
+C:\Users\Николай\Desktop\ДЗ008\object58\bin\Debug\net6.0\object58.pdb
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.dll
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\refint\object58.dll
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.pdb
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\object58.genruntimeconfig.cache
+C:\Users\Николай\Desktop\ДЗ008\object58\obj\Debug\net6.0\ref\object58.dll
