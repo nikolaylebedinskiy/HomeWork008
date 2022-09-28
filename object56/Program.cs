@@ -36,7 +36,7 @@ int LineMinSum(int[,] array)
         {
             sum += array[i, j];
         }
-        if (minSum > sum)
+        if (sum < minSum)
             {
                 minSum = sum;
                 lineMin = i;
